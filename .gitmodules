@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Paras0072/Video-Streaming-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Paras0072/Video-Streaming-Backend.git
